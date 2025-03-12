@@ -1,2 +1,2 @@
-# lab-prueba-git
+# 1.lab-prueba-git
 Primeros pasas GITHUB
